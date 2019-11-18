@@ -16,10 +16,10 @@ asfaksfajsf
 - gsdf
 
 
-![Benjamin Bannekat](https://raw.githubusercontent.com/JonasFhInfo/APP_Project_Einkaufsliste/master/Doku/Diagramme/Mockups/Einzelne%20Liste.png?token=AKPUT3CHSUTTM7BFLGF3TQK52KZX4)
+![Benjamin Bannekat](https://klexikon.zum.de/images/thumb/d/db/Nasa_blue_marble.jpg/300px-Nasa_blue_marble.jpg)
 
 
-<img src="https://raw.githubusercontent.com/JonasFhInfo/APP_Project_Einkaufsliste/master/Doku/Diagramme/Mockups/Einzelne%20Liste.png?token=AKPUT3CHSUTTM7BFLGF3TQK52KZX4" alt="Kitten" title="A cute kitten" width="150" height="100" />
+<img src="https://klexikon.zum.de/images/thumb/d/db/Nasa_blue_marble.jpg/300px-Nasa_blue_marble.jpg" alt="Kitten" title="A cute kitten" width="150" height="100" />
 
 
 
